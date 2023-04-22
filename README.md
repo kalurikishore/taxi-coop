@@ -94,7 +94,7 @@ The setup process involves the following steps.
 5.    Change directory to `taxi-iot` and run these commands:-
 
 ```bash
-    $ cd ../taxi-iot
+    $ cd ../taxi-sim
 
     $ ./setup.sh
 ```
