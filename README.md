@@ -114,10 +114,10 @@ The setup process involves the following steps.
 
 The API end point for TCGetTaxis should be in the output. Copy the URL and open it in browser.
 
-7.    Change directory back to `taxi-iot` and start the taxi simulator
+7.    Change directory back to `simulation` and start the taxi simulator
 
 ```bash
-    $ cd ../taxi-iot
+    $ cd ../simulation
     $ python main.py
 ```
 
